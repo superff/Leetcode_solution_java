@@ -1,7 +1,7 @@
 package questions100;
 import java.util.*;
 
-public class aaSum4Solution {
+public class AaSum4Solution {
 	
 	public static void main(String[] args)
 	{

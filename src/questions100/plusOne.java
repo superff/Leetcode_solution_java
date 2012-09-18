@@ -1,6 +1,6 @@
 package questions100;
 
-public class plusOne {
+public class PlusOne {
 	public int[] plusOne(int[] digits) {
         // Start typing your Java solution below
         // DO NOT write main() function
