@@ -1,6 +1,7 @@
 package questions100;
-import others.TreeNode;
 import java.util.*;
+
+import DataStructure.TreeNode;
 
 public class BinaryTreeInorderTraversal {
 	

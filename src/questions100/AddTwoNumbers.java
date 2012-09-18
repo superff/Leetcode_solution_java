@@ -1,6 +1,6 @@
 package questions100;
 
-import others.*;
+import DataStructure.*;
 
 public class AddTwoNumbers {
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

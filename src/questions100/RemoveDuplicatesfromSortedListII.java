@@ -1,6 +1,6 @@
 package questions100;
 
-import others.*;
+import DataStructure.*;
 
 public class RemoveDuplicatesfromSortedListII {
 	public ListNode deleteDuplicates(ListNode head) {

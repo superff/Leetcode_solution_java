@@ -1,4 +1,4 @@
-package others;
+package DataStructure;
 import java.util.*;
 
 public class retds {

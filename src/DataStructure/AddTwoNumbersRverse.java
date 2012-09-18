@@ -1,4 +1,4 @@
-package others;
+package DataStructure;
 public class AddTwoNumbersRverse {
 	
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

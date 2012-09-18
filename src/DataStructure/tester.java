@@ -1,4 +1,4 @@
-package others;
+package DataStructure;
 
 public class tester {
 	public static void main(String[] args) {
